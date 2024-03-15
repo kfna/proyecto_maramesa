@@ -1,0 +1,32 @@
+[
+  {
+    "name": "carrito",
+    "path": "/carrito",
+    "component": "C:\\\\Users\\\\bsanc\\\\WebstormProjects\\\\proyecto-maramesa\\\\maramesa-web-app\\\\pages\\\\carrito.vue",
+    "chunkName": "pages/carrito"
+  },
+  {
+    "name": "catalago",
+    "path": "/catalago",
+    "component": "C:\\\\Users\\\\bsanc\\\\WebstormProjects\\\\proyecto-maramesa\\\\maramesa-web-app\\\\pages\\\\catalago.vue",
+    "chunkName": "pages/catalago"
+  },
+  {
+    "name": "login_prueba",
+    "path": "/login_prueba",
+    "component": "C:\\\\Users\\\\bsanc\\\\WebstormProjects\\\\proyecto-maramesa\\\\maramesa-web-app\\\\pages\\\\login_prueba.vue",
+    "chunkName": "pages/login_prueba"
+  },
+  {
+    "name": "venta",
+    "path": "/venta",
+    "component": "C:\\\\Users\\\\bsanc\\\\WebstormProjects\\\\proyecto-maramesa\\\\maramesa-web-app\\\\pages\\\\venta.vue",
+    "chunkName": "pages/venta"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\bsanc\\\\WebstormProjects\\\\proyecto-maramesa\\\\maramesa-web-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
